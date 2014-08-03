@@ -1,0 +1,20 @@
+{
+  "name": "olaf",
+  "version": "0.0.1",
+  "homepage": "https://github.com/yu-ichiko/olaf",
+  "authors": [
+    "yuta <yu.ichiko@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember": "~1.6.1"
+  }
+}
