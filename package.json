@@ -1,6 +1,10 @@
 {
   "name": "olaf",
   "version": "0.0.1",
+  "authors": [
+    "yuta <yu.ichiko@gmail.com>"
+  ],
+  "license": "MIT",
   "private": true,
   "repository": {
     "type": "git",
@@ -10,7 +14,8 @@
     "bower": "^1.3.8",
     "browserify": "^5.9.1",
     "debowerify": "^0.8.1",
-    "gulp": "^3.8.7"
+    "gulp": "^3.8.7",
+    "vinyl-source-stream": "^0.1.1"
   },
   "browserify": {
     "transform": [
